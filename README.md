@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avilaa118
+- 👋 Hi, I’m Anderson Avila :) (@avilaa118)
 - 👀 I’m interested in learning to code and exploring new techniques.
 - 🌱 I’m currently learning Computer Science at CUNY College of Staten Island.
 - 💞️ I’m looking to collaborate on any project that is interesting and within my skill sets (don't mind having to learn some new things).
